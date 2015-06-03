@@ -1,2 +1,3 @@
 # hello-world
-first GIT repository
+My first GIT repository
+I use it to test how to make git repository.
